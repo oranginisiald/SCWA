@@ -1,1 +1,2 @@
-pip install inquirer requests bs4 colorama
+pip install inquirer requests bs4 colorama GitPython
+
